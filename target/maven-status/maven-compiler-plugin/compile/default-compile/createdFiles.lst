@@ -1,0 +1,17 @@
+ru\example4\spring\data\FileDataCsv.class
+ru\example4\spring\services\ValidateInterface.class
+ru\example4\spring\services\FileDataCsvService.class
+ru\example4\spring\enums\ApplicationTypes.class
+ru\example4\spring\annotation\LogTransformation.class
+ru\example4\spring\services\DataSave.class
+ru\example4\spring\model\Logins.class
+ru\example4\spring\services\ValidatorFio.class
+ru\example4\spring\services\LoginsService.class
+ru\example4\spring\processors\LogTransformationProcessor.class
+ru\example4\spring\services\UsersService.class
+ru\example4\spring\repo\LoginsRepo.class
+ru\example4\spring\repo\UsersRepo.class
+ru\example4\spring\services\ValidatorDate.class
+ru\example4\spring\services\ValidatorApplication.class
+ru\example4\spring\Start.class
+ru\example4\spring\model\Users.class
